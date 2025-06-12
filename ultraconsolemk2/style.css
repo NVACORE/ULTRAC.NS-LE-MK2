@@ -1,0 +1,18 @@
+/*
+Theme Name: N°VACORE Terminal
+Description: A retro terminal-style WordPress theme with interactive features, music player, artwork gallery, and dynamic content management. Converted from static HTML to WordPress.
+Author: N°VACORE
+Version: 1.0.0
+Text Domain: nvacore-terminal
+Requires at least: 5.0
+Tested up to: 6.4
+Requires PHP: 7.4
+License: GPL v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+
+N°VACORE Terminal WordPress Theme
+A modern retro terminal experience with dynamic content management.
+*/
+
+/* The actual CSS will be in separate CSS files loaded via functions.php */
+/* This file only contains the WordPress theme header information */
